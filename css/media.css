@@ -1,0 +1,589 @@
+﻿@media only screen and (max-width:1200px) {
+    .menu-wrap ul.nav li a {
+        font-size: 14px
+    }
+
+    .content-title {
+        padding: 50px 0 30px
+    }
+
+    .content-title span {
+        padding: 9px 20px
+    }
+
+    .content-title h1 span {
+        font-size: 60px
+    }
+
+    .content-title .second-level span {
+        font-size: 30px
+    }
+
+    .content-title .third-level span {
+        font-size: 24px
+    }
+
+    #box {
+        left: 89px
+    }
+
+    .ao-items-wrap {
+        margin-top: -47px
+    }
+
+    .calc-right-block {
+        max-width: 100% !important
+    }
+
+    .btn-package {
+        margin: 10px auto 25px
+    }
+
+    .item-row::after {
+        display: none
+    }
+
+    .payment-method,
+    .calc-left-block,
+    .read-reviews,
+    .product-wrap {
+        margin-bottom: 20px
+    }
+
+    .tb-form .tb-tele {
+        margin-right: 0
+    }
+
+    .form-for-shipping .in-city {
+        margin-right: 0
+    }
+
+    .tb-form .tb-btn {
+        margin-top: 15px
+    }
+
+    .form-for-shipping .btn-form {
+        margin-top: 15px
+    }
+}
+
+@media only screen and (max-width:480px) {
+
+    .menu-wrap,
+    .link_nav span,
+    .menu-wrap ul.menu_expanded,
+    .product-wrap {
+        display: block
+    }
+
+    .menu-wrap {
+        position: relative;
+        width: 100%;
+        text-align: right;
+        padding-top: 2px
+    }
+
+    .contact-block-mobile {
+        width: 100%;
+        margin: 0 auto;
+        padding: 25px 0;
+        background-color: #2c3544
+    }
+
+    .menu-wrap::before {
+        position: absolute;
+        content: "";
+        width: 70px;
+        height: 71px;
+        background: url("../img/logo.png")no-repeat;
+        top: 0;
+        left: 0
+    }
+
+    .menu-wrap::after {
+        position: absolute;
+        content: "+7 (917)616-80-50";
+        top: 7px;
+        left: 80px
+    }
+
+    .top-line {
+        min-height: 50px
+    }
+
+    .menu-wrap::after,
+    .line-name-products h3,
+    #advant-order .ao-title h3,
+    .name-package h4,
+    .modal-form p.title,
+    .crb-final-price .final-text,
+    .calc-left-block h3,
+    .payment-method h4,
+    .crbi-right p,
+    .crbi-left p {
+        font-size: 24px
+    }
+
+    .menu-wrap::after,
+    .menu_parent_exp:after,
+    .contact-block-mobile {
+        color: #fff
+    }
+
+    .menu-wrap>ul {
+        background: #2c3544
+    }
+
+    .menu-wrap li,
+    .links-advant-mobile,
+    .contact-block-mobile,
+    .reviews-mobile {
+        display: block !important
+    }
+
+    .menu-wrap li,
+    .top-block ul li,
+    .contact-block-mobile {
+        text-align: center
+    }
+
+    .menu-wrap li:last-child {
+        border-bottom: none
+    }
+
+    .menu-wrap li a {
+        font-size: 18px !important
+    }
+
+    a.link_nav {
+        display: inline-block;
+        border: 2px solid #fff;
+        border-radius: 3px;
+        width: 40px;
+        height: 40px
+    }
+
+    a.link_nav::after {
+        width: 0;
+        height: 0
+    }
+
+    a.link_nav::after,
+    #contact-and-maps .maps-wrap .contact-block,
+    .title-section .for-line:before,
+    .title-section .for-line:after,
+    .item-row::after,
+    .menu-wrap ul {
+        display: none
+    }
+
+    .link_nav span {
+        width: 60%;
+        height: 1px;
+        background-color: #fff;
+        margin: 8px auto
+    }
+
+    .menu_parent_exp:after {
+        content: "▲"
+    }
+
+    .content-title {
+        padding: 80px 0 50px
+    }
+
+    .content-title span {
+        padding: 7px 10px
+    }
+
+    .content-title h1 span,
+    .crb-final-price .final-price,
+    .title-section h2,
+    #help-sell .title-section h2,
+    .title-section .for-line {
+        font-size: 36px
+    }
+
+    .top-btn-wrap a,
+    .bw-btn,
+    .contact-block-mobile ul li,
+    .content-title .third-level span,
+    .payment-method li,
+    .content-title .second-level span {
+        font-size: 14px
+    }
+
+    .top-btn-wrap a {
+        padding: 20px 5px 10px;
+        margin-top: 60px
+    }
+
+    .title-section .descr-title,
+    .btn-label,
+    .top-block p,
+    .reviews-item h5,
+    .changes-price,
+    .calc-left-block ul li,
+    .read-reviews p,
+    .payment-method span,
+    .ao-item p,
+    .descr-cell p,
+    .descr-cell a {
+        font-size: 18px
+    }
+
+    .title-section .descr-title {
+        margin-top: 0
+    }
+
+    .payment-systems {
+        margin-top: 0;
+        padding: 15px 0
+    }
+
+    .line-name-products h3 {
+        margin: 10px auto
+    }
+
+    .product-wrap {
+        margin: 20px auto 20px !important
+    }
+
+    .product-wrap:first-child {
+        margin-top: 0 !important
+    }
+
+    #advant-order .ao-title {
+        margin-top: 30px
+    }
+
+    .title-section p,
+    #trial-batch h2,
+    .crbi-right p,
+    .crbi-left p {
+        line-height: 30px
+    }
+
+    .title-section p {
+        margin-top: 15px
+    }
+
+    .modal-form p.conf {
+        margin-top: 15px;
+        line-height: 12px;
+        font-family: "BebasRegular", sans-serif
+    }
+
+    .name-and-price {
+        font-size: 22px;
+        line-height: 22px
+    }
+
+    .bw-btn {
+        line-height: 14px;
+        padding: 0 10px
+    }
+
+    .get-samples {
+        padding-top: 18px
+    }
+
+    .know-price {
+        padding: 13px 15px
+    }
+
+    .changes-price span:first-child::before,
+    .changes-price span:last-child::before,
+    .modal-form p.conf {
+        font-size: 12px
+    }
+
+    .changes-price span:first-child::before {
+        left: -75px
+    }
+
+    .changes-price span:last-child::before {
+        left: -64px
+    }
+
+    .ao-items-wrap {
+        margin-top: -46px
+    }
+
+    .ao-items-wrap,
+    .read-reviews,
+    .payment-systems,
+    .calc-left-block,
+    .bottom-block p,
+    .payment-method {
+        margin-bottom: 20px
+    }
+
+    .ao-item {
+        padding-top: 70px
+    }
+
+    .ao-item,
+    .reviews-mobile,
+    .modal-form p {
+        margin-bottom: 30px
+    }
+
+    .name-package {
+        min-height: 100px
+    }
+
+    .name-package h4 {
+        line-height: 80px
+    }
+
+    .descr-package p {
+        font-size: 16px
+    }
+
+    .modal-form p {
+        font-size: 16px;
+        line-height: 16px
+    }
+
+    .descr-package p,
+    .btn-label,
+    .calc-left-block ul li,
+    .read-reviews p,
+    .payment-method span,
+    .ao-item p {
+        line-height: 18px
+    }
+
+    .btn-package,
+    .top-block ul li {
+        margin-bottom: 25px
+    }
+
+    .ri-img {
+        width: 140px;
+        height: 140px
+    }
+
+    .reviews-item {
+        margin-top: -70px;
+        padding-top: 91px
+    }
+
+    .reviews-item,
+    .modal-form p.conf,
+    .form-for-shipping .btn-form,
+    .btnp-three,
+    .ao-four {
+        margin-bottom: 0
+    }
+
+    .read-reviews {
+        padding: 5px
+    }
+
+    .payment-method::before {
+        min-height: 80px
+    }
+
+    .payment-systems li {
+        padding: 15px 30px
+    }
+
+    .top-block ul li,
+    .crb-final-price ul li,
+    .tb-form input,
+    .form-for-shipping input {
+        margin-right: 0
+    }
+
+    .contact-block-mobile ul {
+        margin: 15px 0
+    }
+
+    #trial-batch h2 {
+        font-size: 30px
+    }
+
+    #box {
+        left: 10px;
+        top: 45px
+    }
+
+    .calc-left-block {
+        padding: 20px
+    }
+
+    .crb-items-wrap {
+        padding: 20px;
+        min-height: 500px
+    }
+
+    .btn-label {
+        margin-right: 5%
+    }
+
+    .modal-form p.title,
+    .crb-final-price .final-text,
+    .calc-left-block h3,
+    .payment-method h4 {
+        line-height: 24px
+    }
+
+    .modal-form p.title {
+        margin: 15px 0 10px;
+        color: #ffd308
+    }
+
+    .crb-final-price .final-price,
+    .title-section h2,
+    #help-sell .title-section h2,
+    .title-section .for-line {
+        line-height: 36px
+    }
+
+    .descr-cell p,
+    .descr-cell a {
+        line-height: 20px
+    }
+
+    .top-block ul {
+        margin: 20px auto
+    }
+
+    .line-name-products {
+        margin: 20px auto
+    }
+
+    .form-for-shipping,
+    .go-direct {
+        margin-top: 20px
+    }
+
+    .tb-form input {
+        margin-bottom: 10px
+    }
+
+    .form-for-shipping input {
+        margin-bottom: 10px
+    }
+
+    #contact-and-maps,
+    #calc,
+    #reviews,
+    #payment,
+    #shipping,
+    #catalog {
+        padding-top: 90px
+    }
+
+    .reviews-decstop,
+    .links-advant {
+        display: none !important
+    }
+
+    .crbi-right {
+        width: 40%
+    }
+
+    .crbi-left {
+        width: 40%
+    }
+
+    .crbi-right,
+    .crbi-left {
+        margin-right: 10%
+    }
+
+    .menu-wrap li {
+        width: auto;
+        margin: 0;
+        border-bottom: 1px solid rgba(255, 255, 255, .5);
+        margin-right: 0 !important;
+        padding: 10px 0;
+        line-height: 18px !important
+    }
+}
+
+@media only screen and (max-width:320px) {
+
+    .tcw-tele span,
+    .top-btn-wrap a,
+    .bw-btn {
+        font-size: 14px
+    }
+
+    .tcw-tele span {
+        margin-right: 0
+    }
+
+    .tcw-tele span::before,
+    .changes-price span:first-child::before,
+    .changes-price span:last-child::before {
+        font-size: 12px
+    }
+
+    .top-btn-wrap a {
+        padding: 20px 5px 10px;
+        margin-top: 60px
+    }
+
+    .title-section p {
+        display: inline-block;
+        width: 300px;
+        font-size: 24px;
+        line-height: 24px
+    }
+
+    .bw-btn {
+        line-height: 14px;
+        padding: 0 10px
+    }
+
+    .get-samples {
+        padding-top: 18px
+    }
+
+    .know-price {
+        padding: 13px 15px
+    }
+
+    .changes-price span:first-child::before {
+        left: -75px
+    }
+
+    .changes-price span:last-child::before {
+        left: -56px
+    }
+
+    .changes-price span.max::before {
+        left: -48px
+    }
+
+    .changes-price span.thousand::before {
+        left: -67px
+    }
+
+    .get-pryce-btn a,
+    .changes-price,
+    .name-and-price {
+        font-size: 18px
+    }
+
+    .get-pryce-btn a {
+        line-height: 18px
+    }
+
+    #box {
+        left: 10px;
+        top: 45px
+    }
+
+    .title-section .for-line:after {
+        display: none
+    }
+
+    .title-section .for-line:before {
+        display: none
+    }
+}

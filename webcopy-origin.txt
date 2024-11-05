@@ -1,0 +1,384 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\ajax\libs\jquery\2.2.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://api-maps.yandex.ru/1.1/index.xml
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\1.1\index.xml
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:32e3039fe846d87c30714b708cd7bcddaf8966932eae57fc9d47b01297dc0568&width=100%25&height=400&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/54391957
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\watch\54391957
+Content Type: image/gif
+
+Uri: https://www.бумага-оптом.рф/
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\index.htm
+Content Type: text/html
+
+Uri: https://www.бумага-оптом.рф/404.html
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\404.html
+Content Type: text/html
+
+Uri: https://www.бумага-оптом.рф/css/fonts.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\css\fonts.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/css/main.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\css\main.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/css/media.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\css\media.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/css/owl.theme.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/css/responsiveslides.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\css\responsiveslides.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/fonts/BebasBold/BebasBold.ttf
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\fonts\BebasBold\BebasBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.бумага-оптом.рф/fonts/BebasBold/BebasBold.woff
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\fonts\BebasBold\BebasBold.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.бумага-оптом.рф/fonts/BebasRegular/BebasRegular.ttf
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\fonts\BebasRegular\BebasRegular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.бумага-оптом.рф/fonts/BebasRegular/BebasRegular.woff
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\fonts\BebasRegular\BebasRegular.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.бумага-оптом.рф/img/bestseller.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bestseller.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/bg-head.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bg-head.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/bprice.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bprice.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/b-klass/Ballet-Classic.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\b-klass\Ballet-Classic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/b-klass/HP-Office.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\b-klass\HP-Office.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/b-klass/IQ-Allround.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\b-klass\IQ-Allround.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/Ballet-Classic.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\Ballet-Classic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/Ballet-Universal.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\Ballet-Universal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/Color-Copy.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\Color-Copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/IQ-AllRound.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\IQ-AllRound.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/IQ-Economy.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\IQ-Economy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/IQ-Premium.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\IQ-Premium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/IQ-Ultra.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\IQ-Ultra.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/snegurochka-A3.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\snegurochka-A3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/bumaga-a3/SvetoCopy-A3.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\bumaga-a3\SvetoCopy-A3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Classic/Ballet-Universal.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Classic\Ballet-Universal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Classic/Clio.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Classic\Clio.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Classic/HP-H&O.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Classic\HP-H&O.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Classic/IQ-economy.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Classic\IQ-economy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Classic/snegurochka.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Classic\snegurochka.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Classic/SvetoCopy-Classic.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Classic\SvetoCopy-Classic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Premium/Ballet-Premier.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Premium\Ballet-Premier.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Premium/Color-Copy.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Premium\Color-Copy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Premium/HP-Premium.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Premium\HP-Premium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Premium/IQ-Premium.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Premium\IQ-Premium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Premium/IQ-Smooth.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Premium\IQ-Smooth.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/bumaga/Premium/IQ-Ultra.jpg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\bumaga\Premium\IQ-Ultra.jpg
+Content Type: image/jpeg
+
+Uri: https://www.бумага-оптом.рф/img/favicon/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\favicon\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/favicon/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\favicon\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/favicon/favicon.ico
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.бумага-оптом.рф/img/ic-best_price.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-best_price.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-doc.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-doc.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-email.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-email.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-eng-hover.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-eng-hover.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-engine.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-engine.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-garant.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-garant.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-help.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-help.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-name.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-name.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-payment.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-payment.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-purse.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-purse.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-shipping.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-shipping.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-ship_quick.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-ship_quick.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/ic-tele.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\ic-tele.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/in-geo.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\in-geo.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/logo-mob.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\logo-mob.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/logo.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\logo.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/preloader.gif
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.бумага-оптом.рф/img/recommended.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\recommended.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/img/verx.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\img\verx.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/js/common.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\js\common.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/js/lazy.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\js\lazy.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/js/mask.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\js\mask.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/js/mobile-menu.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\js\mobile-menu.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/js/responsiveslides.min.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\js\responsiveslides.min.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/libs/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/libs/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.бумага-оптом.рф/libs/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.бумага-оптом.рф/libs/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.бумага-оптом.рф/libs/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.бумага-оптом.рф/libs/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.бумага-оптом.рф/libs/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://www.бумага-оптом.рф/libs/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/libs/font-awesome-4.5.0/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\font-awesome-4.5.0\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/libs/font-awesome-4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\font-awesome-4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.бумага-оптом.рф/libs/font-awesome-4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\font-awesome-4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.бумага-оптом.рф/libs/font-awesome-4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\font-awesome-4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.бумага-оптом.рф/libs/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\font-awesome-4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.бумага-оптом.рф/libs/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\font-awesome-4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://www.бумага-оптом.рф/libs/font-awesome-4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\font-awesome-4.5.0\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.бумага-оптом.рф/libs/jquery/jquery-1.11.2.min.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\jquery\jquery-1.11.2.min.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/libs/magnific/magnific.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\magnific\magnific.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/libs/magnific/magnific.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\magnific\magnific.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/libs/modernizr/modernizr.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\modernizr\modernizr.js
+Content Type: application/javascript
+
+Uri: https://www.бумага-оптом.рф/libs/ui.range.slide/css/ion.rangeSlider.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\ui.range.slide\css\ion.rangeSlider.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/libs/ui.range.slide/css/ion.rangeSlider.skinFlat.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\ui.range.slide\css\ion.rangeSlider.skinFlat.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/libs/ui.range.slide/css/normalize.css
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\ui.range.slide\css\normalize.css
+Content Type: text/css
+
+Uri: https://www.бумага-оптом.рф/libs/ui.range.slide/img/sprite-skin-flat.png
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\ui.range.slide\img\sprite-skin-flat.png
+Content Type: image/png
+
+Uri: https://www.бумага-оптом.рф/libs/ui.range.slide/js/ion-rangeSlider/ion.rangeSlider.min.js
+File Name: C:\Downloaded Web Sites\www.бумага-оптом.рф\libs\ui.range.slide\js\ion-rangeSlider\ion.rangeSlider.min.js
+Content Type: application/javascript
+

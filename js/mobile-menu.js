@@ -1,0 +1,1 @@
+var menuText = "МЕНЮ"; $(function () { $(".menu-wrap").prepend("<a href='#' class='link_nav'><span></span><span></span><span></span></a>"), $(".link_nav").click(function () { return $(".menu-wrap > ul").toggleClass("menu_expanded"), $(this).toggleClass("menu_parent_exp"), !1 }) });

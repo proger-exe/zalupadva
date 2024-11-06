@@ -274,7 +274,7 @@ h1 {
 #header {
 	overflow-x: hidden;
 	min-height: 797px;
-	background: url("../img/bg-head.png") fixed top center/170% no-repeat 
+	background: url("../img/bg-head.png") fixed top center no-repeat 
 }
 
 .top-line,

@@ -1955,7 +1955,7 @@ $(document).ready(function() { $('[type="submit"]').click(function() { if(typeof
 			<div class="row">
 				<div class="col-md-4">
 					<div class="ri-img">
-						<img class="lazy" data-original="img/Teacher.png" alt="">
+						<img class="lazy" data-original="img/Teacher.jfif" alt="">
 					</div>
 					<div class="reviews-item ri-one">
 						<h5>Мозырин Павел</h5>
@@ -1964,7 +1964,7 @@ $(document).ready(function() { $('[type="submit"]').click(function() { if(typeof
 				</div>
 				<div class="col-md-4">
 					<div class="ri-img">
-						<img class="lazy" data-original="img/Wooman.png" alt="">
+						<img class="lazy" data-original="img/Womaan.jfif" alt="">
 					</div>
 					<div class="reviews-item ri-one">
 						<h5>Лариса Румянцева</h5>
@@ -1973,7 +1973,7 @@ $(document).ready(function() { $('[type="submit"]').click(function() { if(typeof
 				</div>
 				<div class="col-md-4">
 					<div class="ri-img">
-						<img class="lazy" data-original="img/Busines.png" alt="">
+						<img class="lazy" data-original="img/Busines.jpg" alt="">
 					</div>
 					<div class="reviews-item ri-one">
 						<h5>Олег Герасимов</h5>
@@ -2347,9 +2347,10 @@ $(document).ready(function() { $('[type="submit"]').click(function() { if(typeof
 	<script>
 		function onchangeWidth() {
 			var val = document.getElementById('range-one').value;
-		    val = val/1.5;
-			document.getElementById('go-overlay').style.height = val + '%';
-			document.getElementById('gt-overlay').style.height = document.getElementById('range-one').value + '%';
+		    go_val = val/2500*80;
+			gt_val = val/2500*100;
+			document.getElementById('go-overlay').style.height = go_val + '%';
+			document.getElementById('gt-overlay').style.height = gt_val + '%';
 		}
 	</script>
 

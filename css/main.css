@@ -2111,3 +2111,7 @@ form input {
 #gt-overlay{
 	background: #ffd308;
 }
+
+.tcw-tele span{
+	font-size: 18px !important;
+}

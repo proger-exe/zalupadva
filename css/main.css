@@ -2115,3 +2115,7 @@ form input {
 .tcw-tele span{
 	font-size: 18px !important;
 }
+
+.commonninja-ribbon-link span {
+	visibility: none !important;
+}
